@@ -20,11 +20,5 @@ I'm Hüseyin, I'm working on full-stack development. I am sharing my projects an
 <br />
 
 
-<h2 align="center">My GitHub Stats :bar_chart:</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huseyinozcan9&show_icons=true&theme=tokyonight" width="450" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinozcan9&layout=compact&theme=tokyonight" height="180">
-</p>
-
 
 
